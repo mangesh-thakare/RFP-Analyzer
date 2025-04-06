@@ -1,1 +1,10 @@
 PyPDF2
+langchain-groq
+python-dotenv
+pydantic
+langchain
+fastapi
+python-multipart
+uvicorn
+python-docx
+

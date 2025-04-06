@@ -1,0 +1,30 @@
+{
+  "rfp_id": "RFP_1",
+  "timestamp": "2025-04-06T08:41:15.153948",
+  "checklist": {
+    "required_sections": [
+      "Deviation Form"
+    ],
+    "formatting_requirements": [
+      "PDF format",
+      "A4 paper size"
+    ],
+    "page_limits": {
+      "max_pages": "50",
+      "specific_section_limits": {
+        "Deviation Form": "30"
+      }
+    },
+    "required_attachments": [
+      "Deviation Form"
+    ],
+    "submission_deadlines": {
+      "date": "2024-06-15",
+      "time": "23:59",
+      "method": "Online portal"
+    },
+    "other_details": [
+      "Two hard copies required"
+    ]
+  }
+}

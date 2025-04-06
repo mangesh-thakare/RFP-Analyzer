@@ -1,0 +1,45 @@
+{
+    "status": "success",
+    "filename": "ELIGIBLE RFP - 1.pdf",
+    "requirements": {
+      "mandatory_requirements": {
+        "registrations_and_licenses": [
+          "SAM.gov Registration",
+          "Texas Employment Agency License",
+          "W-9 Form"
+        ],
+        "certifications": [
+          " Texas Employment Agency License",
+          "Certified Community Behavioral Health Clinic (CCBHC)",
+          "Certified Women-Owned Business (C-WO)",
+          "Historically Underutilized Business “HUB” state certificate",
+          "Immigration Reform and Control Act of 1986",
+          "M/W/DBE certificate",
+          "None mentioned",
+          "None specified"
+        ]
+      },
+      "optional_requirements": {
+        "registrations_and_licenses": [
+          "SAM.gov Registration",
+          "W-9 Form"
+        ],
+        "certifications": [
+          "HUB/MBE/DBE Certification"
+        ]
+      },
+      "experience_requirements": 2,
+      "insurance_requirements": {
+        "Workers Compensation": "Statutory Limits",
+        "General Liability": "$1M per occurrence",
+        "Automobile liability": "$500,000 minimum combined single limit",
+        "Contractual liability": "$1,000,000 minimum combined single limit"
+      },
+      "service_category": "Temporary Staffing Services",
+      "key_personnel": [
+        "Account Representative",
+        "Project Manager",
+        "Recruiter"
+      ]
+    }
+  }
